@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RegForm</string>
+    <string-array name="branches">
+        <item>CSE</item>
+        <item>ECE</item>
+        <item>MECH</item>
+        <item>EEE</item>
+        <item>CIVIL</item>
+        <item>IT</item>
+    </string-array>
+</resources>
